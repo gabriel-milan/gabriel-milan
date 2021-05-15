@@ -4,4 +4,4 @@
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-milan&hide=jupyter%20notebook,javascript,css,html,php,typescript&langs_count=20&layout=compact&theme=dark)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=SECRET,SSS,SS,S,AAA,AA&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=gabriel-milan&rank=SECRET,SSS,SS,S,AAA,AA&theme=onedark)
