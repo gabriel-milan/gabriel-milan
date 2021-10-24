@@ -1,7 +1,5 @@
 <h2> Hi there, I'm Gabriel Milan! 👋 </h2>
 
-<hr>
-
 <p>
 <h3>Experiences</h3>
 <ul>
@@ -14,8 +12,6 @@
 <li><em>Software developer at <a href="https://minervanautica.poli.ufrj.br/">Minerva Náutica</a></em> (May 2016 - Dec 2016).<br /></li>
 </ul>
 </p>
-
-<hr>
 
 <p>
 <h3>Open portfolio</h3>
@@ -30,16 +26,12 @@
 </ul>
 </p>
 
-<hr>
-
 <p>
 <h3>GitHub stats</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gabriel-milan&count_private=true&show_icons=true&hide_rank=false&theme=dark" />
 </p>
 </p>
-
-<hr>
 
 <p>
 <h3>Reach me at</h3>
