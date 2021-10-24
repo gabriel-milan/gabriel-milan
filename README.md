@@ -16,6 +16,7 @@
 <p>
 <h3>Open portfolio</h3>
 <ul>
+<li><em><a href="https://github.com/gabriel-milan/t2d">t2d</a>, a seamless integration for Typer CLI and Discord bots</em> (2021).<br /></li>
 <li><em><a href="https://github.com/gabriel-milan/scoach">scoach</a>, a setup for training Tensorflow models on SLURM clusters</em> (2021).<br /></li>
 <li><em><a href="https://github.com/sotaque-brasileiro/sotaque-brasileiro">Sotaque Brasileiro</a>, an audio database for brazilian portuguese accent detection</em> (2021).<br /></li>
 <li><em>A simple <a href="https://github.com/gabriel-milan/sailboat-playground">framework</a> for developing and simulating autonomous sailing algorithms</em> (2021).<br /></li>
