@@ -1,3 +1,4 @@
+![](https://hit.yhype.me/github/profile?user_id=35741485)
 <h2> Hi there, I'm Gabriel Milan! 👋 </h2>
 
 <p>
