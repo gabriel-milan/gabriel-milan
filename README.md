@@ -4,6 +4,7 @@
 <p>
 <h3>Experiences</h3>
 <ul>
+<li><em>Associate Member at <a href="https://basedosdados.org/">Base dos Dados</a></em> (May 2023 - Currently).<br /></li>
 <li><em>Cloud & Data Engineer at <a href="https://prefeitura.rio/">Rio de Janeiro City Hall</a></em> (Nov 2021 - Currently).<br /></li>
 <li><em>R&D Developer at <a href="https://www.linkedin.com/company/laspi-ufrj/">LASPI</a></em> (Jan 2018 - Currently).<br /></li>
 <li><em>Data Engineer at <a href="https://mobilidade.rio/">SMTR</a></em> (Jun 2021 - Oct 2021).<br /></li>
