@@ -4,9 +4,10 @@
 <p>
 <h3>Experiences</h3>
 <ul>
+<li><em>Data Office's Head of Technology at <a href="https://prefeitura.rio/">Rio de Janeiro City Hall</a></em> (Nov 2023 - Currently).<br /></li>
 <li><em>Associate Member at <a href="https://basedosdados.org/">Base dos Dados</a></em> (May 2023 - Currently).<br /></li>
-<li><em>Cloud & Data Engineer at <a href="https://prefeitura.rio/">Rio de Janeiro City Hall</a></em> (Nov 2021 - Currently).<br /></li>
 <li><em>R&D Developer at <a href="https://www.linkedin.com/company/laspi-ufrj/">LASPI</a></em> (Jan 2018 - Currently).<br /></li>
+<li><em>Cloud & Data Engineer at <a href="https://prefeitura.rio/">Rio de Janeiro City Hall</a></em> (Nov 2021 - Nov 2023).<br /></li>
 <li><em>Data Engineer at <a href="https://mobilidade.rio/">SMTR</a></em> (Jun 2021 - Oct 2021).<br /></li>
 <li><em>Undergraduate Researcher at <a href="http://lens-ese.cos.ufrj.br/ese/">LENS</a></em> (Aug 2020 - Jun 2021).<br /></li>
 <li><em>Undergraduate Researcher at <a href="https://home.cern/">CERN</a> and <a href="https://lps.ufrj.br/">LPS</a></em> (Aug 2019 - Aug 2020).<br /></li>
